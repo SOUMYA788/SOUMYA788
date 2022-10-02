@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumya
 - 👀 I’m interested in UI Designing and Web Development
-- 🌱 I’m currently learning
+<!---- 🌱 I’m currently learning--->
 - 📫 you can reach me in given e-mail id:- soumyachakraborty00@gmail.com
 
 <!---
